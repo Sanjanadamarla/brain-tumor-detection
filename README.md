@@ -17,9 +17,9 @@ The project uses TensorFlow and MobileNetV2 for transfer learning and is deploye
 
 ---
 
-## 📂 GitHub Repository
+## 📂 Dataset Link
 
-🔗 https://github.com/Sanjanadamarla/brain-tumor-detection
+🔗 https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 
 ---
 
