@@ -12,13 +12,16 @@ The project uses TensorFlow and MobileNetV2 for transfer learning and is deploye
 ---
 
 ## 🚀 Live Demo
-
-🔗 [https://your-streamlit-app-url.streamlit.app](https://brain-tumor-detection-sanjandamarla.streamlit.app/)
+🔗 https://brain-tumor-detection-sanjandamarla.streamlit.app/
 
 ---
 
-## 📂 Dataset Link
+## 📂 GitHub Repository
+🔗 https://github.com/Sanjanadamarla/brain-tumor-detection
 
+---
+
+## 📊 Dataset Link
 🔗 https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset
 
 ---
@@ -71,8 +74,9 @@ The project uses TensorFlow and MobileNetV2 for transfer learning and is deploye
 ## 📊 Model Performance
 
 - Test Accuracy: **87%**
-- Evaluation Metrics:
-  - Precision
-  - Recall
-  - F1-Score
-  - Confusion Matrix
+
+### Evaluation Metrics
+- Precision
+- Recall
+- F1-Score
+- Confusion Matrix
